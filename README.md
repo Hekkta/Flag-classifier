@@ -19,3 +19,9 @@ I follow a simple classification tutorial found here:
 https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
 Having concentrated on other projects for a while, I felt the need to brush up on the basics of Keras again before moving on.
+
+### House prices regressor
+
+My first taste of regression using Keras from a tutorial found here:
+
+https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/
